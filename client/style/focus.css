@@ -1,0 +1,74 @@
+
+
+
+.header__input:focus-visible {
+  border-color: #6647bb;
+}
+
+.table-head__btn:focus-visible {
+  color: #6647bb;
+}
+
+.table-head__btn:focus-visible .th-name__btn-descr {
+  color: #6647bb;
+}
+
+.table-head__btn:focus-visible path {
+  fill: #6647bb;
+}
+
+.td-actions__btn:focus-visible {
+  color: #9873FF;
+}
+
+.btn-show-contacts:focus-visible {
+  color: #fff;
+  background-color: #9873FF;
+}
+
+.btn-close-modal:focus-visible path {
+  fill: #6647bb;
+}
+
+.is-focused .choices__inner {
+  position: relative;
+  z-index: 2;
+  border-color: #9873FF;
+
+}
+
+.bottom-fieldset__input:focus-visible {
+  border-color: #9873FF;
+  position: relative;
+}
+
+.bottom-fieldset__btn-clear:focus-visible {
+  position: relative;
+  border-color: #9873FF;
+}
+
+.btn-type-1:focus-visible {
+  background-color: #6647bb;
+}
+
+.btn-type-2:focus-visible {
+  color: #6647bb;
+}
+
+.btn-type-2:focus-visible::before {
+  border-color: #F06A4D;
+}
+
+.bottom-fieldset__btn-add:focus-visible {
+  border: 1px solid #9873FF;
+}
+
+.clients__btn-add-client:focus-visible {
+  background-color: #FFF;
+}
+
+
+
+
+
+

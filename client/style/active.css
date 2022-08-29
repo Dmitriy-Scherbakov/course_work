@@ -1,0 +1,50 @@
+
+.table-head__btn:active {
+  color: #ac97e7;
+}
+
+.table-head__btn:active path {
+  fill: #ac97e7;
+}
+
+.td-actions__btn:active {
+  color: #ac97e7;
+}
+
+.btn-show-contacts:active {
+  color: #fff;
+  background-color: #ac97e7;
+}
+
+.btn-close-modal:active path {
+  fill: #ac97e7;
+}
+
+.choices__item--selectable:active {
+  color: #ac97e7;
+}
+
+.bottom-fieldset__btn-clear:active path {
+  fill: #ac97e7;
+}
+
+.bottom-fieldset__btn-add:active {
+  color: #ac97e7;;
+}
+
+.btn-type-2:active {
+  color: #ac97e7;
+}
+
+.btn-type-2:active::before {
+  border-color: #ac97e7;
+}
+
+.clients__btn-add-client:active {
+  background-color: #ac97e7;
+  color: #fff;
+}
+
+.clients__btn-add-client:active path {
+  fill: #fff;
+}

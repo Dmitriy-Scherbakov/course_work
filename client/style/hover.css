@@ -1,0 +1,51 @@
+@media(min-width: 768px) {
+  .table-head__btn:hover {
+    transform: scale(1.15);
+  }
+
+  .td-actions__btn:hover {
+    transform: scale(1.15);
+  }
+
+  .btn-show-contacts:hover {
+    color: #fff;
+    background-color: #9873FF;
+  }
+
+  .btn-close-modal:hover svg {
+    transform: scale(1.15);
+  }
+
+  .choices__item--selectable:hover {
+    color: #9873FF;
+  }
+
+  .bottom-fieldset__btn-clear:hover path {
+    fill: #9873FF;
+  }
+
+  .bottom-fieldset__btn-add:hover {
+    color: #9873FF;
+  }
+
+  .btn-type-1:hover {
+    background-color: #8163d2;
+  }
+
+  .btn-type-2:hover {
+    color: #8163d2;
+  }
+
+  .btn-type-2:hover::before {
+    border-color: #8163d2;
+  }
+
+  .clients__btn-add-client:hover {
+    background-color: #9873FF;
+    color: #fff;
+  }
+
+  .clients__btn-add-client:hover path {
+    fill: #fff;
+  }
+}
